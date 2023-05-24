@@ -1,0 +1,4 @@
+FullTile,HalfTile,HalfTile
+HalfTile,None,FullTile
+HalfTile,FullTile,HalfTile
+FullTile,None,FullTile

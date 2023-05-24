@@ -1,0 +1,11 @@
+create lists
+    Processed
+    ToSearch
+
+Put Starting node in to ToSearch
+
+	while we still have stuff in to search do the following
+	(not that if we do not find a path to destination we just return null)
+		
+		initialize current to the 
+
